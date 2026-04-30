@@ -3,7 +3,7 @@ using System;
 
 class App
 {
-    Console.WriteLine("Калькулятор v2.0");
+    Console.WriteLine("Калькулятор v2.0-FINAL");
     static int Subtract(int a, int b)
     {
         return a - b;
