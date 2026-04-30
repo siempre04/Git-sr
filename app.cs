@@ -20,5 +20,6 @@ class App
 
         int result = Multiply(5, 2);
         Console.WriteLine("Произведение: " + product);
+        
     }
 }
